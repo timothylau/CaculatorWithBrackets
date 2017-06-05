@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FEE7668FD8AD26BED63916CEA83B84483CA1538",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CF309AABC690F91A443043D5C69EECB0069B5411" : 9223372036854775807,
+    "6FEE7668FD8AD26BED63916CEA83B84483CA1538" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9E0DB1A-2752-4D0D-9758-DBE7CA50C9C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CF309AABC690F91A443043D5C69EECB0069B5411" : "..\/Samples\/swift-algorithm-club",
+    "6FEE7668FD8AD26BED63916CEA83B84483CA1538" : "IRLCalculator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IRLCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IRLCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aandino11\/IRLCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FEE7668FD8AD26BED63916CEA83B84483CA1538"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/raywenderlich\/swift-algorithm-club.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CF309AABC690F91A443043D5C69EECB0069B5411"
+    }
+  ]
+}
